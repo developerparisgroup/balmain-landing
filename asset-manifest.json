@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/balmain-landing/static/css/main.be36ffa6.css",
+    "main.css": "/balmain-landing/static/css/main.73250b1f.css",
     "main.js": "/balmain-landing/static/js/main.492c66a3.js",
     "static/js/787.28525a86.chunk.js": "/balmain-landing/static/js/787.28525a86.chunk.js",
     "static/media/bg.jpg": "/balmain-landing/static/media/bg.a738a0cec1315c1afaae.jpg",
@@ -23,12 +23,12 @@
     "static/media/outline-icons.woff": "/balmain-landing/static/media/outline-icons.ddae9b1ba9b0b42f5880.woff",
     "static/media/outline-icons.woff2": "/balmain-landing/static/media/outline-icons.687a4990ea22bb1a49d4.woff2",
     "index.html": "/balmain-landing/index.html",
-    "main.be36ffa6.css.map": "/balmain-landing/static/css/main.be36ffa6.css.map",
+    "main.73250b1f.css.map": "/balmain-landing/static/css/main.73250b1f.css.map",
     "main.492c66a3.js.map": "/balmain-landing/static/js/main.492c66a3.js.map",
     "787.28525a86.chunk.js.map": "/balmain-landing/static/js/787.28525a86.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.be36ffa6.css",
+    "static/css/main.73250b1f.css",
     "static/js/main.492c66a3.js"
   ]
 }
